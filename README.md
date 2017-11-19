@@ -1,50 +1,58 @@
-## Your Name
+## Tim Williamson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a motivated and capable software developer looking for an exciting opportunity to build on my skills. 
 
-## Skills
+I graduated from the University of Cambridge as a qualified veterinary surgeon, but quickly decided that I'd be more interested in pursuing my former hobby in coding as a profession. Since then I first completed tutorials in C++ and have now joined Maker's Academy, an intensive software development bootcamp.
 
-#### This Skill
+Key skills: Ruby, C++, Visual Basic(.net)
+## Skills and Attributes
+I am a:
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Fast and Motivated Learner
+I have an excellent head for facts, but more importantly I'm able to quickly understand new concepts and apply them to problems, often in novel ways, to achieve good results. I also love to learn. I've always found I'm happiest when getting my head around a new system, concept or idea.
 
-- Experience
-- Achievements
-- Evidence
+#### Excellent Problem Solver
+My brain works in a very logical and analytical way that, combined with my attention to detail, makes me very good at solving problems, from fixing bugs to designing systems to complete a complicated task.  
 
-#### Another Skill
+#### Great Communicator
+My time as a vet gave me excellent opportunities me to develop my communication skills. In particular I am very adept at communicating complex technical and scientific concepts to lay-people in a way that is easy to understand. 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Maker
+It's not just software! Growing up, my bedroom was littered with circuitry, little mechanical robots and even off-cuts of wood. My most recent project has been a foamboard remote control plane with a five foot wingspan! Whenever I have a problem I make something to solve it. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Adventurer
+Whether it's medicating wildebeast in africa, designing my first sidescrolling shooter game when I was 18 or putting myself in a ring for three rounds of kickboxing against someone who wants to beat me up, I've never been put off doing something interesting or exciting because it was too difficult, time-consuming or physically uncomfortable. 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2017 to February 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+This is a competitive 12 week course base in London focusing on:
+- Agile development
+- Object Orientated software design
+- Test driven development
+- Full-stack web development  
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Cambridge University, Fitzwilliam College 2010-2016 
 
-#### Your University / College (start_date to end_date)
+- Veterinary Medicine
+- BA, 2nd class
+- VetMB, merit in veterinary public health
+- An intercalated year studying zoology with a focus on evolution and a research project "Intercalating DNA and Morphology in Phylogeny Reconstruction".
+- A final elective project "Social Behaviour in Commonly Kept Aquarium Fish Species - A Comparative Study of Shoaling in Platys and Four Species of Tetra, and Movement Towards a Standardised Index of Shoaling Behaviour Across Different Species"
+-- For this project I wrote a little program in Visual Basic that allowed me to take and analyse data from up to 100 fish (including taking up to 10,000 indiviual measurements) in a matter of seconds. 
+- Vice-president of the Cambridge University Kickboxing Society 2013-2014, 2014-2015 and 2015-2016
+- Webmaster for the Cambridge University Veterinary Zoological Society 2014-2015 
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Dr Challoners Grammar School, Amersham
+- A levels (with grades): Biology, (A*), Chemistry(A), Physics(A*), Maths(A*), Electronics (A*)
+- 12 GCSEs
 
-#### Any other qualifications
+## Employment History
 
-## Experience
+**Vets4Pets Cambridge** (November 2016 to May 2017)    
+*Veterinary Surgeon*  
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+## Other Hobbies and Interests
+Martial arts: I have been training american kickboxing for 7 years and achieved my 1st Dan black belt in between my final exams at university.
+Music: I play piano to grade 8 standard.
