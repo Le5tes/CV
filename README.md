@@ -4,7 +4,7 @@ I am a motivated and capable software developer looking for an exciting opportun
 
 I graduated from the University of Cambridge as a qualified veterinary surgeon, but quickly decided that I'd be more interested in pursuing my former hobby in coding as a profession. Since then I first completed tutorials in C++ and have now joined Maker's Academy, an intensive software development bootcamp.
 
-Key skills: Ruby, C++, Visual Basic(.net)
+Key skills: Ruby, C++, Visual Basic (.net)
 ## Skills and Attributes
 I am a:
 
@@ -21,7 +21,7 @@ My time as a vet gave me excellent opportunities me to develop my communication 
 It's not just software! Growing up, my bedroom was littered with circuitry, little mechanical robots and even off-cuts of wood. My most recent project has been a foamboard remote control plane with a five foot wingspan! Whenever I have a problem I make something to solve it. 
 
 #### Adventurer
-Whether it's medicating wildebeast in africa, designing my first sidescrolling shooter game when I was 18 or putting myself in a ring for three rounds of kickboxing against someone who wants to beat me up, I've never been put off doing something interesting or exciting because it was too difficult, time-consuming or physically uncomfortable. 
+Whether it's medicating wildebeest in Africa, designing my first side-scrolling shooter game when I was 18 or putting myself in a ring for three rounds of kickboxing against someone who wants to beat me up, I've never been put off doing something interesting or exciting because it was too difficult, time-consuming or physically uncomfortable. 
 
 ## Education
 
@@ -40,12 +40,12 @@ This is a competitive 12 week course base in London focusing on:
 - VetMB, merit in veterinary public health
 - An intercalated year studying zoology with a focus on evolution and a research project "Intercalating DNA and Morphology in Phylogeny Reconstruction".
 - A final elective project "Social Behaviour in Commonly Kept Aquarium Fish Species - A Comparative Study of Shoaling in Platys and Four Species of Tetra, and Movement Towards a Standardised Index of Shoaling Behaviour Across Different Species"
--- For this project I wrote a little program in Visual Basic that allowed me to take and analyse data from up to 100 fish (including taking up to 10,000 indiviual measurements) in a matter of seconds. 
+-- For this project I wrote a little program in Visual Basic that allowed me to take and analyse data from up to 100 fish (including taking up to 10,000 individual measurements) in a matter of seconds. 
 - Vice-president of the Cambridge University Kickboxing Society 2013-2014, 2014-2015 and 2015-2016
 - Webmaster for the Cambridge University Veterinary Zoological Society 2014-2015 
 
 #### Dr Challoners Grammar School, Amersham
-- A levels (with grades): Biology, (A*), Chemistry(A), Physics(A*), Maths(A*), Electronics (A*)
+- A levels (with grades): Biology (A*), Chemistry (A), Physics (A*), Maths (A*), Electronics (A*)
 - 12 GCSEs
 
 ## Employment History
@@ -54,5 +54,5 @@ This is a competitive 12 week course base in London focusing on:
 *Veterinary Surgeon*  
 
 ## Other Hobbies and Interests
-Martial arts: I have been training american kickboxing for 7 years and achieved my 1st Dan black belt in between my final exams at university.
+Martial arts: I have been training American Kickboxing for 7 years and achieved my 1st Dan black belt in between my final exams at university.
 Music: I play piano to grade 8 standard.
