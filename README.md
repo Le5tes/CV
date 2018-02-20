@@ -15,6 +15,7 @@ Key technologies: Ruby, Javascript, C++, Visual Basic(.net), Rails, Sinatra, Pos
 |HexOps|A Javascript multiplayer game|Javascript|
 |Bowling Challenge|A bowling scoreboard in javascript|Javascript|
 |Making a Secure Web App|A web server and app designed for the purpose of understanding basic security concerns|Ruby, PostgreSQL|
+
 ## Skills and Attributes
 I am a:
 
@@ -33,7 +34,7 @@ This was something that was quickly noticed by my fellow students at Maker's Aca
 It's not just software! Growing up, my bedroom was littered with circuitry, little mechanical robots and even off-cuts of wood. My most recent project has been a foamboard remote control plane with a five foot wingspan! Whenever I have a problem I make something to solve it. 
 
 #### Adventurer
-Whether it's medicating wildebeast in africa, designing my first sidescrolling shooter game when I was 18 or putting myself in a ring for three rounds of kickboxing against someone who wants to beat me up, I've never been put off doing something interesting or exciting because it was too difficult, time-consuming or physically uncomfortable. 
+Whether it's medicating wildebeest in Africa, designing my first side-scrolling shooter game when I was 18 or putting myself in a ring for three rounds of kickboxing against someone who wants to beat me up, I've never been put off doing something interesting or exciting because it was too difficult, time-consuming or physically uncomfortable. 
 
 ## Education
 
@@ -52,7 +53,7 @@ This is a competitive 12 week course base in London focusing on:
 - VetMB, merit in veterinary public health
 - An intercalated year studying zoology with a focus on evolution and a research project "Intercalating DNA and Morphology in Phylogeny Reconstruction".
 - A final elective project "Social Behaviour in Commonly Kept Aquarium Fish Species - A Comparative Study of Shoaling in Platys and Four Species of Tetra, and Movement Towards a Standardised Index of Shoaling Behaviour Across Different Species"
--- For this project I wrote a little program in Visual Basic that allowed me to take and analyse data from up to 100 fish (including taking up to 10,000 indiviual measurements) in a matter of seconds. 
+-- For this project I wrote a little program in Visual Basic that allowed me to take and analyse data from up to 100 fish (including taking up to 10,000 individual measurements) in a matter of seconds. 
 - Vice-president of the Cambridge University Kickboxing Society 2013-2014, 2014-2015 and 2015-2016
 - Webmaster for the Cambridge University Veterinary Zoological Society 2014-2015 
 
@@ -66,5 +67,5 @@ This is a competitive 12 week course base in London focusing on:
 *Veterinary Surgeon*  
 
 ## Other Hobbies and Interests
-Martial arts: I have been training american kickboxing for 7 years and achieved my 1st Dan black belt in between my final exams at university.
+Martial arts: I have been training American Kickboxing for 7 years and achieved my 1st Dan black belt in between my final exams at university.
 Music: I play piano to grade 8 standard.
