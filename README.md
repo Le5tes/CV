@@ -53,8 +53,8 @@ This is a competitive 12 week course base in London focusing on:
 - BA, 2nd class
 - VetMB, merit in veterinary public health
 - An intercalated year studying zoology with a focus on evolution and a research project "Intercalating DNA and Morphology in Phylogeny Reconstruction".
-- A final elective project "Social Behaviour in Commonly Kept Aquarium Fish Species - A Comparative Study of Shoaling in Platys and Four Species of Tetra, and Movement Towards a Standardised Index of Shoaling Behaviour Across Different Species"
--- For this project I wrote a little program in Visual Basic that allowed me to take and analyse data from up to 100 fish (including taking up to 10,000 individual measurements) in a matter of seconds. 
+- A final elective project "Social Behaviour in Commonly Kept Aquarium Fish Species - A Comparative Study of Shoaling in Platys and Four Species of Tetra, and Movement Towards a Standardised Index of Shoaling Behaviour Across Different Species"  
+   For this project I wrote a little program in Visual Basic that allowed me to take and analyse data from up to 100 fish (including taking up to 10,000 individual measurements) in a matter of seconds. 
 - Vice-president of the Cambridge University Kickboxing Society 2013-2014, 2014-2015 and 2015-2016
 - Webmaster for the Cambridge University Veterinary Zoological Society 2014-2015 
 
