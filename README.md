@@ -1,4 +1,4 @@
-## Tim Williamson
+# Tim Williamson 
 
 I am a motivated and capable software developer looking for an exciting opportunity to build on my skills. 
 
@@ -6,7 +6,7 @@ I graduated from the University of Cambridge as a qualified veterinary surgeon, 
 
 #### Key technologies: 
 <img src='https://www.ruby-lang.org/images/header-ruby-logo.png' height=50> <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' height=50> <img src='https://qph.ec.quoracdn.net/main-qimg-02d66cb83e1f24d23569da0d879dc76e.webp' height=50>  <img src='https://upload.wikimedia.org/wikipedia/commons/9/9c/Ruby_on_Rails_logo.jpg' height=50> <img src='http://sinatrarb.com/images/logo.png' height=50> <img src='http://logonoid.com/images/postgresql-logo.png' height=60> <img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' height=50> <img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' height=50> <img src='https://raw.githubusercontent.com/ServiceStack/Assets/master/img/wikis/vb-header.png' height=50>
-
+******
 ## Projects
 |Title|Description|Key technologies|
 |---|---|---|
@@ -25,11 +25,14 @@ I graduated from the University of Cambridge as a qualified veterinary surgeon, 
 [5]:https://github.com/Le5tes/hex-ops
 [6]:https://github.com/Xin00163/mmog
 [7]:https://github.com/LarsFin/Making-a-secure-web-app
+******
 ## Skills and Attributes
 I am a:
 
 #### Fast and Motivated Learner
-I have an excellent head for facts, but more importantly I'm able to quickly understand new concepts and apply them to problems, often in novel ways, to achieve good results. I also love to learn. I've always found I'm happiest when getting my head around a new system, concept or idea.
+I have an excellent head for facts, but more importantly I'm able to quickly understand new concepts and apply them to problems, often in novel ways, to achieve good results. This ability has served me well in school, university and most recently at Makers Academy.
+
+I also love to learn. I've always found I'm happiest when getting my head around a new system, concept or idea.
 
 #### Excellent Problem Solver
 My brain works in a very logical and analytical way that, combined with my attention to detail, makes me very good at solving problems, from fixing bugs to designing systems to complete a complicated task.  
@@ -43,8 +46,8 @@ This was something that was quickly noticed by my fellow students at Maker's Aca
 It's not just software! Growing up, my bedroom was littered with circuitry, little mechanical robots and even off-cuts of wood. My most recent project has been a foamboard remote control plane with a five foot wingspan! Whenever I have a problem I make something to solve it. 
 
 #### Adventurer
-Whether it's medicating wildebeest in Africa, designing my first side-scrolling shooter game when I was 18 or putting myself in a ring for three rounds of kickboxing against someone who wants to beat me up, I've never been put off doing something interesting or exciting because it was too difficult, time-consuming or physically uncomfortable. 
-
+Whether it's medicating wildebeest in Africa, designing my first side-scrolling shooter game when I was 18 or putting myself in a ring for three rounds of kickboxing against someone who wants to beat me up, I've never been put off doing something interesting or exciting because it was too difficult, time-consuming or physically uncomfortable.
+******
 ## Education
 
 #### Makers Academy (November 2017 to February 2018)
@@ -69,12 +72,12 @@ This is a competitive 12 week course base in London focusing on:
 #### Dr Challoners Grammar School, Amersham
 - A levels (with grades): Biology, (A*), Chemistry(A), Physics(A*), Maths(A*), Electronics (A*)
 - 12 GCSEs (10 A/A*)
-
+******
 ## Employment History
 
 **Vets4Pets Cambridge** (November 2016 to May 2017)    
 *Veterinary Surgeon*  
-
+******
 ## Other Hobbies and Interests
 Martial arts: I have been training American Kickboxing for 7 years and achieved my 1st Dan black belt in between my final exams at university.
 
