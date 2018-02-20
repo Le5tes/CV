@@ -9,14 +9,21 @@ Key technologies: Ruby, Javascript, C++, Visual Basic(.net), Rails, Sinatra, Pos
 ## Projects
 |Title|Description|Key technologies|
 |---|---|---|
-|Rock Paper Scissors|A basic rock paper scissors game with a web interface|Ruby, Sinatra|
-|Bowling Challenge|A bowling scoreboard in javascript|Javascript|
-|Nomnom|A yelp clone using rails|Ruby, Rails, PostgreSQL|
-|MakersBnb|A clone of AirBnb|Ruby, Sinatra, PostgreSQL|
-|HexOps|A Javascript multiplayer game|Javascript|
-|Mmog|A multiplayer online game using rails and websockets|Rails, Javascript, Websockets|
-|Making a Secure Web App|A web server and app designed for the purpose of understanding basic security concerns|Ruby, PostgreSQL|
+|[Rock Paper Scissors][1]|A basic rock paper scissors game with a web interface|Ruby, Sinatra|
+|[Bowling Challenge][2]|A bowling scoreboard in javascript|Javascript|
+|[Nomnom][3]|A yelp clone using rails|Ruby, Rails, PostgreSQL|
+|[MakersBnb][4]|A clone of AirBnb|Ruby, Sinatra, PostgreSQL|
+|[HexOps][5]|A Javascript multiplayer game|Javascript|
+|[Mmog][6]|A multiplayer online game using rails and websockets|Rails, Javascript, Websockets|
+|[Making a Secure Web App][7]|A web server and app designed for the purpose of understanding basic security concerns|Ruby, PostgreSQL|
 
+[1]:https://github.com/Le5tes/rps-challenge
+[2]:https://github.com/Le5tes/bowling-challenge
+[3]:https://github.com/Calum-W/nomnom
+[4]:https://github.com/Le5tes/MakersBnB
+[5]:https://github.com/Le5tes/hex-ops
+[6]:https://github.com/Xin00163/mmog
+[7]:https://github.com/LarsFin/Making-a-secure-web-app
 ## Skills and Attributes
 I am a:
 
