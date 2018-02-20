@@ -56,7 +56,8 @@ This is a competitive 12 week course base in London focusing on:
 - Agile development
 - Object Orientated software design
 - Test driven development
-- Full-stack web development  
+- Full-stack web development 
+- Effective collaboration on projects
 
 #### Cambridge University, Fitzwilliam College 2010-2016 
 
