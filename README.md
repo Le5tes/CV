@@ -2,9 +2,19 @@
 
 I am a motivated and capable software developer looking for an exciting opportunity to build on my skills. 
 
-I graduated from the University of Cambridge as a qualified veterinary surgeon, but quickly decided that I'd be more interested in pursuing my former hobby in coding as a profession. Since then I first completed tutorials in C++ and have now joined Maker's Academy, an intensive software development bootcamp.
+I graduated from the University of Cambridge as a qualified veterinary surgeon, but quickly decided that I'd be more interested in pursuing my former hobby in coding as a profession. Since then I first completed tutorials in C++ and then joined Maker's Academy, an intensive software development bootcamp, which I graduated from on 16/2/18.
 
-Key skills: Ruby, C++, Visual Basic(.net)
+Key technologies: Ruby, Javascript, C++, Visual Basic(.net), Rails, Sinatra, Postgres, HTML, CSS
+
+## Projects
+|Title|Description|Key technologies|
+|---|---|---|
+|Rock Paper Scissors|A basic rock paper scissors game with a web interface|Ruby, Sinatra|
+|Nomnom|A yelp clone using rails|Ruby, Rails, PostgreSQL|
+|MakersBnb|A clone of AirBnb|Ruby, Sinatra, PostgreSQL|
+|HexOps|A Javascript multiplayer game|Javascript|
+|Bowling Challenge|A bowling scoreboard in javascript|Javascript|
+|Making a Secure Web App|A web server and app designed for the purpose of understanding basic security concerns|Ruby, PostgreSQL|
 ## Skills and Attributes
 I am a:
 
@@ -16,6 +26,8 @@ My brain works in a very logical and analytical way that, combined with my atten
 
 #### Great Communicator
 My time as a vet gave me excellent opportunities me to develop my communication skills. In particular I am very adept at communicating complex technical and scientific concepts to lay-people in a way that is easy to understand. 
+
+This was something that was quickly noticed by my fellow students at Maker's Academy; from the first week people started coming to me to explain the things we were learning. Later in the course I put myself forward to mentor a couple of students from the january cohort, something I have enjoyed greatly. 
 
 #### Maker
 It's not just software! Growing up, my bedroom was littered with circuitry, little mechanical robots and even off-cuts of wood. My most recent project has been a foamboard remote control plane with a five foot wingspan! Whenever I have a problem I make something to solve it. 
@@ -46,7 +58,7 @@ This is a competitive 12 week course base in London focusing on:
 
 #### Dr Challoners Grammar School, Amersham
 - A levels (with grades): Biology, (A*), Chemistry(A), Physics(A*), Maths(A*), Electronics (A*)
-- 12 GCSEs
+- 12 GCSEs (10 A/A*)
 
 ## Employment History
 
