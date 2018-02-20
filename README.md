@@ -15,7 +15,7 @@ I graduated from the University of Cambridge as a qualified veterinary surgeon, 
 |[Nomnom][3]|A yelp clone using rails|Ruby, Rails, PostgreSQL|
 |[MakersBnb][4]|A clone of AirBnb|Ruby, Sinatra, PostgreSQL|
 |[HexOps][5]|A Javascript multiplayer turn based strategy game, that I've been developing with some friends in our free time|Javascript|
-|[Mmog][6]|A multiplayer online game using rails and websockets|Rails, Javascript, Websockets|
+|[Mmog (AKA Strepkills)][6]|A multiplayer online game using rails and websockets|Rails, Javascript, Websockets|
 |[Making a Secure Web App][7]|A web server and app designed for the purpose of understanding basic security concerns|Ruby, PostgreSQL|
 
 [1]:https://github.com/Le5tes/rps-challenge
