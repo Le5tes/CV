@@ -14,7 +14,7 @@ I graduated from the University of Cambridge as a qualified veterinary surgeon, 
 |[Bowling Challenge][2]|A bowling scoreboard in javascript|Javascript|
 |[Nomnom][3]|A yelp clone using rails|Ruby, Rails, PostgreSQL|
 |[MakersBnb][4]|A clone of AirBnb|Ruby, Sinatra, PostgreSQL|
-|[HexOps][5]|A Javascript multiplayer game|Javascript|
+|[HexOps][5]|A Javascript multiplayer turn based strategy game, that I've been developing with some friends in our free time|Javascript|
 |[Mmog][6]|A multiplayer online game using rails and websockets|Rails, Javascript, Websockets|
 |[Making a Secure Web App][7]|A web server and app designed for the purpose of understanding basic security concerns|Ruby, PostgreSQL|
 
@@ -77,4 +77,5 @@ This is a competitive 12 week course base in London focusing on:
 
 ## Other Hobbies and Interests
 Martial arts: I have been training American Kickboxing for 7 years and achieved my 1st Dan black belt in between my final exams at university.
+
 Music: I play piano to grade 8 standard.
