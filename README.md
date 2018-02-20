@@ -4,7 +4,8 @@ I am a motivated and capable software developer looking for an exciting opportun
 
 I graduated from the University of Cambridge as a qualified veterinary surgeon, but quickly decided that I'd be more interested in pursuing my former hobby in coding as a profession. Since then I first completed tutorials in C++ and then joined Maker's Academy, an intensive software development bootcamp, which I graduated from on 16/2/18.
 
-Key technologies: Ruby, Javascript, C++, Visual Basic(.net), Rails, Sinatra, Postgres, HTML, CSS
+#### Key technologies: 
+<img src='https://www.ruby-lang.org/images/header-ruby-logo.png' height=50> <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' height=50> <img src='https://qph.ec.quoracdn.net/main-qimg-02d66cb83e1f24d23569da0d879dc76e.webp' height=50>  <img src='https://upload.wikimedia.org/wikipedia/commons/9/9c/Ruby_on_Rails_logo.jpg' height=50> <img src='http://sinatrarb.com/images/logo.png' height=50> <img src='http://logonoid.com/images/postgresql-logo.png' height=60> <img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' height=50> <img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' height=50> <img src='https://raw.githubusercontent.com/ServiceStack/Assets/master/img/wikis/vb-header.png' height=50>
 
 ## Projects
 |Title|Description|Key technologies|
