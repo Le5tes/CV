@@ -10,10 +10,11 @@ Key technologies: Ruby, Javascript, C++, Visual Basic(.net), Rails, Sinatra, Pos
 |Title|Description|Key technologies|
 |---|---|---|
 |Rock Paper Scissors|A basic rock paper scissors game with a web interface|Ruby, Sinatra|
+|Bowling Challenge|A bowling scoreboard in javascript|Javascript|
 |Nomnom|A yelp clone using rails|Ruby, Rails, PostgreSQL|
 |MakersBnb|A clone of AirBnb|Ruby, Sinatra, PostgreSQL|
 |HexOps|A Javascript multiplayer game|Javascript|
-|Bowling Challenge|A bowling scoreboard in javascript|Javascript|
+|Mmog|A multiplayer online game using rails and websockets|Rails, Javascript, Websockets|
 |Making a Secure Web App|A web server and app designed for the purpose of understanding basic security concerns|Ruby, PostgreSQL|
 
 ## Skills and Attributes
